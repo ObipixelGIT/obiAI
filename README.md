@@ -7,7 +7,7 @@ ObiAI is a Python 3 script that creates a simple chatbot that can listen to a us
 Here is a breakdown of the functionality:
 
 - The script starts by importing necessary libraries such as os, openai, pyttsx3, speech_recognition, and emoji.
-- The OpenAI API key is imported from a separate file called "openapikey". You will need to get an API key from GPT and add it to a file called "openapikey".
+- The OpenAI API key is imported from a separate file called "openapikey". You will need to get an API key from GPT and add it to a file called "openapikey.py" which is provided. You just need to change APIKEY="YOURAPIKEYGOESHERE" and place your API key where I am telling you to place it!
 - The text-to-speech engine is initialized using the pyttsx3 library.
 - The speech recognition module and microphone are initialized using the speech_recognition library.
 - A while loop is created to continuously listen for user input and respond to it.
