@@ -20,6 +20,7 @@ Within the loop, the microphone is used to listen for the user's input, and Goog
 - The response is extracted from the chatbot and spoken aloud using the text-to-speech engine.
 - The response is also printed to the console.
 - If an error occurs during the generation of the response, a friendly error message is printed to the console and the loop continues.
+- You should also change the part: user_name = "Dimitrios" so that it shows your name.
 
 ## Preparation
 
