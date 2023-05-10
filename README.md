@@ -36,11 +36,11 @@ sudo chmod +x obiAI.py
 ```
 
 ## Usage
+*** When obiAI is listening, just ask GPT what you want to know, and then wait for GPT to respond :-)
 ```bash
 sudo python3 obiAI.py
-
-*** When obiAI is listening, just ask GPT what you want to know, and then wait for GPT to respond :-)
 ```
+
 
 ## Sample script
 ```python
